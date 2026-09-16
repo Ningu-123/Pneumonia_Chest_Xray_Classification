@@ -129,8 +129,8 @@ chest_xray/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/chest-xray-pneumonia.git
-cd chest-xray-pneumonia
+git clone https://github.com/Ningu-123/Pneumonia_Chest_Xray_Classification.git
+cd Pneumonia_Chest_Xray_Classification
 ```
 
 ### Option A: Python Virtual Environment (Recommended)
@@ -254,7 +254,7 @@ git commit -m "feat: initial commit with model, Gradio app, CLI, and docs"
 git branch -M main
 
 # 6. Add your GitHub remote repository URL
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>.git
+git remote add origin https://github.com/Ningu-123/Pneumonia_Chest_Xray_Classification.git
 
 # 7. Push to GitHub
 git push -u origin main
